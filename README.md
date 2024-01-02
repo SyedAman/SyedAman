@@ -13,7 +13,7 @@ Check out some of my personal projects:
   </a>
 </p>
 
-<p href="https://discord.gg/onlp" align="center">
-    <img alt="" src="https://github-readme-stats.vercel.app/api?username=syedaman&theme=tokyonight&show_icons=true">
-</p>
-
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=syedaman&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=syedaman&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
