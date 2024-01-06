@@ -2,7 +2,7 @@
 
 Check out some of my personal projects:
 
-- [UltraEngine](https://github.com/SyedAman/UltraEngine) - A custom game engine built from scratch
+- [UltraEngine](https://github.com/SyedAman/UltraEngine) - A custom game engine built from scratch (Private)
 - [UnrealEngineDeepDive](https://github.com/SyedAman/UnrealEngineDeepDive) - In-depth exploration and study of the Unreal Engine
 - [Game Engine Spike](https://github.com/SyedAman/GameEngineSpike) - Experimentations on a Vulkan-based game engine from scratch
 
