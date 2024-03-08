@@ -2,8 +2,8 @@
 
 Check out some of my personal (public) projects:
 
-- [UnrealEngineDeepDive](https://github.com/SyedAman/UnrealEngineDeepDive) - In-depth exploration and study of the Unreal Engine
-- [LinkedInFeedObliterator](https://github.com/SyedAman/LinkedInFeedObliterator) - Chrome/Edge extension. I hate the LinkedIn feed
+- [Unreal Engine Deep Dive](https://github.com/SyedAman/UnrealEngineDeepDive) - In-depth exploration and study of the Unreal Engine
+- [LinkedIn Feed Obliterator](https://github.com/SyedAman/LinkedInFeedObliteratorChromeExtension) - Chrome/Edge extension. I hate the LinkedIn feed
 
 <h2 align="center">Skills </h2>
 
