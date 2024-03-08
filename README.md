@@ -1,5 +1,3 @@
-### Personal Repositories
-
 <h2 align="center">Skills </h2>
 
 <p align="center">
