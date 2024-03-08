@@ -10,7 +10,7 @@ Check out some of my personal (public) projects:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,c,javascript,python,assembly" />
+    <img src="https://skillicons.dev/icons?i=cpp,c,javascript,python,cmake,assembly,cs,unreal,unity,aws,tensorflow,express" />
   </a>
 </p>
 
