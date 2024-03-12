@@ -4,7 +4,7 @@ Check out some of my personal (public) projects:
 
 - [Unreal Engine Deep Dive](https://github.com/SyedAman/UnrealEngineDeepDive) - In-depth exploration and study of the Unreal Engine
 - [LinkedIn Feed Obliterator](https://github.com/SyedAman/LinkedInFeedObliteratorChromeExtension) - Chrome/Edge extension. I hate the LinkedIn feed
-- [Dark Mode Everywhere](https://github.com/SyedAman/DarkModeChromeExtension/tree/main) - Chrome/Edge extension. Makes everything dark!
+- [Dark Mode Everywhere](https://github.com/SyedAman/DarkModeChromeExtension/tree/main) - Have you ever seen a dark google.com? Chrome/Edge extension. Makes everything dark mode!
 - Pinned repos below
 
 <h2 align="center">Skills </h2>
