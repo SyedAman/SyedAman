@@ -6,6 +6,7 @@ Check out some of my personal (public) projects:
 - [LinkedIn Feed Obliterator](https://github.com/SyedAman/LinkedInFeedObliteratorChromeExtension) - Chrome/Edge extension. I hate the LinkedIn feed
 - [C++ Testing Framework](https://github.com/SyedAman/SahlTestingFramework) - Mocking library included. Has some selenium-style e2e testing tools too.
 - [Dark Mode Everywhere](https://github.com/SyedAman/DarkModeChromeExtension/tree/main) - Have you ever seen a dark google.com? Chrome/Edge extension. Makes everything dark mode!
+- [Useful Scripts](https://github.com/SyedAman/UsefulScripts) - Cross-platform python scripts you should add to your system path
 - Pinned repos below
 
 <h2 align="center">Skills </h2>
